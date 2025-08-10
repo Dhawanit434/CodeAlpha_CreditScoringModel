@@ -1,3 +1,4 @@
 ﻿# Ignore large files
 *.joblib
 *.exe
+*.zip
