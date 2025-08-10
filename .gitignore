@@ -1,0 +1,3 @@
+﻿# Ignore large files
+*.joblib
+*.exe
